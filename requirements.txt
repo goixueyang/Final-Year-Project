@@ -1,0 +1,4 @@
+tenseal
+numpy
+pandas
+requests

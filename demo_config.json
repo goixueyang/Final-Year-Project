@@ -1,0 +1,13 @@
+{
+  "owner_key": "b4470e40afab500eca049f79",
+  "auditor_key": "b345c805fa0eed7c47904cf0",
+  "leaked_key": "ab69306e434bb2f295afd50e",
+  "server_url": "http://43.216.245.141:8000",
+  "pso_degree": 16384,
+  "pso_arity": 4,
+  "datasets": {
+    "Dataset 1": "dataset1.csv",
+    "Dataset 2": "dataset2.csv",
+    "Dataset 3": "dataset3.csv"
+  }
+}
